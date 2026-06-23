@@ -1,0 +1,110 @@
+# LL Patiseri — Generative Engine Optimization Map
+
+> A home-based bakery specializing in baked goods and cakes, offering homemade products with a personal, artisanal touch. The business operates from home, suggesting a warm, intimate, and handcrafted brand identity centered around freshness and homemade quality.
+
+---
+
+## Pages
+
+### בית
+https://ll-patiseri-b8e178f9.zappy5.app
+גלו את הקסם של zojirushi home bakery supreme אצלנו ב-LL Patiseri. מאפים ועוגות בעבודת יד, טריים ומפנקים ישירות מהמטבח הביתי. הזמינו עכשיו ותיהנו מאיכות ביתית אמיתית!
+
+### חגיגות
+https://ll-patiseri-b8e178f9.zappy5.app/celebrations
+מחפשים successful home bakery business לאירועים? ב-LL Patiseri ניצור עבורכם קינוחים מושלמים לכל חגיגה, עם אריזות home bakery packaging מפנקות. התאימו את המתוק לרגע שלכם!
+
+### אודות
+https://ll-patiseri-b8e178f9.zappy5.app/about
+הכירו את הלב של at home bakery שלנו. ב-LL Patiseri אנו אופים באהבה עם מתכונים מסורתיים ונגיעה אישית, כמו zojirushi home bakery supreme. הצטרפו למסע הטעים והביתי שלנו!
+
+### צור קשר
+https://ll-patiseri-b8e178f9.zappy5.app/contact
+רוצים להזמין מ-successful home bakery business אמיתי? צרו קשר עם LL Patiserי עוד היום! נשמח לשמוע אתכם, לתכנן יחד מאפים מושלמים ולהביא לכם טעם של בית עד הבית.
+
+### Products
+https://ll-patiseri-b8e178f9.zappy5.app/products
+המוצרים שלנו - LL Patiseri
+
+### Cart
+https://ll-patiseri-b8e178f9.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://ll-patiseri-b8e178f9.zappy5.app/checkout
+תשלום
+
+### Login
+https://ll-patiseri-b8e178f9.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://ll-patiseri-b8e178f9.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://ll-patiseri-b8e178f9.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://ll-patiseri-b8e178f9.zappy5.app/product/:slug
+פרטי המוצר - LL Patiseri
+
+### Category
+https://ll-patiseri-b8e178f9.zappy5.app/category/:slug
+מוצרים - LL Patiseri
+
+### תודה שפניתם אלינו
+https://ll-patiseri-b8e178f9.zappy5.app/thank-you
+LL Patiseri - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://ll-patiseri-b8e178f9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ll-patiseri-b8e178f9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ll-patiseri-b8e178f9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About LL Patiseri
+A home-based bakery specializing in baked goods and cakes, offering homemade products with a personal, artisanal touch. The business operates from home, suggesting a warm, intimate, and handcrafted brand identity centered around freshness and homemade quality.
+
+## Services/Products
+- מאפים
+- עוגות
+
+## Target Audience
+- משפחות חוגגות
+- חובבי אוכל מקומיים
+- מחפשי מתנות
+- חובבי מאפים ועוגות
+- חוגגי ימי הולדת
+
+## Industry
+Home Bakery
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://ll-patiseri-b8e178f9.zappy5.app/sitemap.xml
+- Robots: https://ll-patiseri-b8e178f9.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://ll-patiseri-b8e178f9.zappy5.app/llms-full.txt
+- Products (JSON): https://ll-patiseri-b8e178f9.zappy5.app/products.json
+- Products (Google Merchant RSS): https://ll-patiseri-b8e178f9.zappy5.app/product-feed.xml
