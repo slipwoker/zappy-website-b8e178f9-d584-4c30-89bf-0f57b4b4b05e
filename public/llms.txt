@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://ll-patiseri-b8e178f9.zappy5.app
+https://example.com
 גלו את הקסם של zojirushi home bakery supreme אצלנו ב-LL Patiseri. מאפים ועוגות בעבודת יד, טריים ומפנקים ישירות מהמטבח הביתי. הזמינו עכשיו ותיהנו מאיכות ביתית אמיתית!
 
 ### חגיגות
-https://ll-patiseri-b8e178f9.zappy5.app/celebrations
+https://example.com/celebrations
 מחפשים successful home bakery business לאירועים? ב-LL Patiseri ניצור עבורכם קינוחים מושלמים לכל חגיגה, עם אריזות home bakery packaging מפנקות. התאימו את המתוק לרגע שלכם!
 
 ### אודות
-https://ll-patiseri-b8e178f9.zappy5.app/about
+https://example.com/about
 הכירו את הלב של at home bakery שלנו. ב-LL Patiseri אנו אופים באהבה עם מתכונים מסורתיים ונגיעה אישית, כמו zojirushi home bakery supreme. הצטרפו למסע הטעים והביתי שלנו!
 
 ### צור קשר
-https://ll-patiseri-b8e178f9.zappy5.app/contact
+https://example.com/contact
 רוצים להזמין מ-successful home bakery business אמיתי? צרו קשר עם LL Patiserי עוד היום! נשמח לשמוע אתכם, לתכנן יחד מאפים מושלמים ולהביא לכם טעם של בית עד הבית.
 
 ### Products
-https://ll-patiseri-b8e178f9.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - LL Patiseri
 
 ### Cart
-https://ll-patiseri-b8e178f9.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://ll-patiseri-b8e178f9.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://ll-patiseri-b8e178f9.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://ll-patiseri-b8e178f9.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://ll-patiseri-b8e178f9.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://ll-patiseri-b8e178f9.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - LL Patiseri
 
 ### Category
-https://ll-patiseri-b8e178f9.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - LL Patiseri
 
 ### תודה שפניתם אלינו
-https://ll-patiseri-b8e178f9.zappy5.app/thank-you
+https://example.com/thank-you
 LL Patiseri - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://ll-patiseri-b8e178f9.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://ll-patiseri-b8e178f9.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://ll-patiseri-b8e178f9.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -103,8 +103,8 @@ Home Bakery
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://ll-patiseri-b8e178f9.zappy5.app/sitemap.xml
-- Robots: https://ll-patiseri-b8e178f9.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://ll-patiseri-b8e178f9.zappy5.app/llms-full.txt
-- Products (JSON): https://ll-patiseri-b8e178f9.zappy5.app/products.json
-- Products (Google Merchant RSS): https://ll-patiseri-b8e178f9.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
